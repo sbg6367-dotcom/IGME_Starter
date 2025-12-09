@@ -23,7 +23,7 @@ git config user.email "user@here.com"
 git remote add upstream url
 
 //Add Teacher Remote
-git remote add upstream https://github.com/IGM-labigm/IGME_Starter
+git remote add upstream https://github.com/IGM-labigm/IGME_Starter.git
 
 //pull from teacher's repo
 git pull upstream main
